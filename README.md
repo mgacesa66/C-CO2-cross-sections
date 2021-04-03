@@ -6,10 +6,7 @@ Raw scattering cross section data -- preliminary.
 
 The files are distributed under GNU General Public License v3.0 and include no warranty or guarantees of any kind. The results are release 'as is' and no support is provided. The authors are not liable for any loss or damages resulting from using the datasets. We cannot promise (but we will try) to answer any questions related to this dataset nor to prepare different data products for you.
 
-Please cite this work as a hyperlink to GitHub depo. The results will be published soon (Apr 3 2021). 
-
-
-Gacesa, Marko (2021). O(3P)+CO_2 scattering cross sections at superthermal collision energies for planetary aeronomy: Raw data pre-release (Version v0.9-beta) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3256699
+Please cite this work as a hyperlink to this GitHub depo. The results will be published soon (Apr 3 2021). 
 
 
 File structure:
