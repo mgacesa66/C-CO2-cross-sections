@@ -18,4 +18,3 @@ C-CO2_table_momentum-transfer-CS_1pes  -> momentum transfer cross sections; same
 
 ./DCS_1pes/ -> differential cross sections (elastic and total = elastic+inelastic) given as a function of the scattering angle for 41 collision energies, as above. This is a single-surface scattering calculation without any couplings to excited electronic states included. 
 
-./DCS_inelastic_3pes/ -> differential cross sections, state-to-state (ji->jf) with kinetic energy transfer Te(ji,jf) to the target rotational state ji calculated using a simple kinematic model (see the article). 
